@@ -4,7 +4,7 @@ metadata:
   name: sample-app
   description: This is a sample Node.js microservice
   annotations:
-    github.com/project-slug: imran-devops-team/sample-app
+    github.com/project-slug: imranzzz081/Imran
 spec:
   type: service
   lifecycle: production
