@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: sample-app
+  description: This is a sample Node.js microservice
+  annotations:
+    github.com/project-slug: imran-devops-team/sample-app
+spec:
+  type: service
+  lifecycle: production
+  owner: imran
